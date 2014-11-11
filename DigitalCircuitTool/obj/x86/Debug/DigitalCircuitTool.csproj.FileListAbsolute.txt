@@ -1,0 +1,34 @@
+C:\Users\Rafayel\Desktop\DigitalCircuitTool\DigitalCircuitTool\bin\Debug\DigitalCircuitTool.exe
+C:\Users\Rafayel\Desktop\DigitalCircuitTool\DigitalCircuitTool\bin\Debug\DigitalCircuitTool.pdb
+C:\Users\Rafayel\Desktop\DigitalCircuitTool\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.Form1.resources
+C:\Users\Rafayel\Desktop\DigitalCircuitTool\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.Properties.Resources.resources
+C:\Users\Rafayel\Desktop\DigitalCircuitTool\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.csproj.GenerateResource.Cache
+C:\Users\Rafayel\Desktop\DigitalCircuitTool\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.exe
+C:\Users\Rafayel\Desktop\DigitalCircuitTool\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.pdb
+C:\Users\Rafayel\Desktop\DigitalCircuitTool\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.csprojResolveAssemblyReference.cache
+E:\Google Drive\NL\Fontys\2de jaar\ei5a\PCS5\DigitalCircuitTool\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.exe
+E:\Google Drive\NL\Fontys\2de jaar\ei5a\PCS5\DigitalCircuitTool\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.pdb
+E:\Google Drive\NL\Fontys\2de jaar\ei5a\PCS5\DigitalCircuitTool\DigitalCircuitTool\bin\Debug\DigitalCircuitTool.exe
+E:\Google Drive\NL\Fontys\2de jaar\ei5a\PCS5\DigitalCircuitTool\DigitalCircuitTool\bin\Debug\DigitalCircuitTool.pdb
+E:\Google Drive\NL\Fontys\2de jaar\ei5a\PCS5\DigitalCircuitTool\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.csprojResolveAssemblyReference.cache
+E:\Google Drive\NL\Fontys\2de jaar\ei5a\PCS5\DigitalCircuitTool\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.Form1.resources
+E:\Google Drive\NL\Fontys\2de jaar\ei5a\PCS5\DigitalCircuitTool\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.Properties.Resources.resources
+E:\Google Drive\NL\Fontys\2de jaar\ei5a\PCS5\DigitalCircuitTool\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.csproj.GenerateResource.Cache
+E:\Google Drive\NL\Fontys\2de jaar\ei5a\PCS5\DigitalCircuitTool (bugs fixed)\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.exe
+E:\Google Drive\NL\Fontys\2de jaar\ei5a\PCS5\DigitalCircuitTool (bugs fixed)\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.pdb
+E:\Google Drive\NL\Fontys\2de jaar\ei5a\PCS5\DigitalCircuitTool (bugs fixed)\DigitalCircuitTool\bin\Debug\DigitalCircuitTool.exe
+E:\Google Drive\NL\Fontys\2de jaar\ei5a\PCS5\DigitalCircuitTool (bugs fixed)\DigitalCircuitTool\bin\Debug\DigitalCircuitTool.pdb
+E:\Google Drive\NL\Fontys\2de jaar\ei5a\PCS5\DigitalCircuitTool (bugs fixed)\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.csprojResolveAssemblyReference.cache
+E:\Google Drive\NL\Fontys\2de jaar\ei5a\PCS5\DigitalCircuitTool (bugs fixed)\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.Form1.resources
+E:\Google Drive\NL\Fontys\2de jaar\ei5a\PCS5\DigitalCircuitTool (bugs fixed)\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.Properties.Resources.resources
+E:\Google Drive\NL\Fontys\2de jaar\ei5a\PCS5\DigitalCircuitTool (bugs fixed)\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.csproj.GenerateResource.Cache
+C:\Users\Rafayel\Documents\Google Drive\NL\Fontys\2de jaar\ei5a\PCS5\DigitalCircuitTool (bugs fixed)\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.exe
+C:\Users\Rafayel\Documents\Google Drive\NL\Fontys\2de jaar\ei5a\PCS5\DigitalCircuitTool (bugs fixed)\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.pdb
+C:\Users\Toshko\Dropbox\Digital Circuit Final Deliverables\DigitalCircuitTool (bugs fixed)\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.exe
+C:\Users\Toshko\Dropbox\Digital Circuit Final Deliverables\DigitalCircuitTool (bugs fixed)\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.pdb
+C:\Users\Toshko\Dropbox\Digital Circuit Final Deliverables\DigitalCircuitTool (bugs fixed)\DigitalCircuitTool\bin\Debug\DigitalCircuitTool.exe
+C:\Users\Toshko\Dropbox\Digital Circuit Final Deliverables\DigitalCircuitTool (bugs fixed)\DigitalCircuitTool\bin\Debug\DigitalCircuitTool.pdb
+C:\Users\Toshko\Dropbox\Digital Circuit Final Deliverables\DigitalCircuitTool (bugs fixed)\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.csprojResolveAssemblyReference.cache
+C:\Users\Toshko\Dropbox\Digital Circuit Final Deliverables\DigitalCircuitTool (bugs fixed)\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.Form1.resources
+C:\Users\Toshko\Dropbox\Digital Circuit Final Deliverables\DigitalCircuitTool (bugs fixed)\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.Properties.Resources.resources
+C:\Users\Toshko\Dropbox\Digital Circuit Final Deliverables\DigitalCircuitTool (bugs fixed)\DigitalCircuitTool\obj\x86\Debug\DigitalCircuitTool.csproj.GenerateResource.Cache

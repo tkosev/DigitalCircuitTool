@@ -1,0 +1,3 @@
+Information about neighbours
+1 
+2 1 1 

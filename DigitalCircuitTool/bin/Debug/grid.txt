@@ -1,0 +1,4 @@
+Information about items
+3 
+1 431 169 DigitalCircuitTool.OR  2 0 
+2 189 179 DigitalCircuitTool.Source True 
